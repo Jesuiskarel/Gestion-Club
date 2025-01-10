@@ -66,8 +66,7 @@ Le fichier principal du programme, contenant le menu principal permettant d'acc√
 
 ## Contributeurs
 
-- [Votre nom]
-- [Autres membres de l'√©quipe]
+- Ondo jean karel
 
 ## Licence
 
