@@ -1,0 +1,38 @@
+MIT License
+
+Copyright (c) 2024 GESTION CLUB
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+### Instructions de Mise en Œuvre
+
+1. **Créer les fichiers de code**
+   - Créez les fichiers `main.c`, `membre.h`, `membre.c`, `tache.h`, `tache.c`, `ressource.h`, `ressource.c`, `budget.h`, `budget.c` avec les fonctions et les structures de données décrites précédemment.
+
+2. **Compilateur C**
+   - Assurez-vous d'avoir un compilateur C installé sur votre machine. GCC est recommandé.
+
+3. **Compiler et Exécuter**
+   - Utilisez les commandes de compilation et d'exécution fournies dans le fichier README.
+
+4. **Tester les Fonctionnalités**
+   - Testez chaque fonctionnalité pour vous assurer que tout fonctionne correctement. Utilisez des fichiers de test pour les membres, les tâches et les ressources afin de vérifier la persistance des données.
+
+5. **Documentation**
+   - Complétez et vérifiez la documentation pour vous assurer qu'elle couvre toutes les fonctionnalités du logiciel et qu'elle est facile à comprendre pour les utilisateurs.
